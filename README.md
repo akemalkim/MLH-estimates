@@ -29,7 +29,7 @@ The analysis was conducted using the following steps:
 
 3. **Analysis:** Conducted statistical analyses to evaluate the relationships between mixed layer height, atmospheric stability, and other relevant factors.
 
-For more detailed information on the analysis and findings, refer to the PDF attachment included in this repository: [Detailed Report](Muhammad Akmal Hakim.pdf).
+For more detailed information on the analysis and findings, refer to the PDF attachment included in this repository: [Detailed Report](Muhammad_Akmal_Hakim.pdf).
 
 ## Installation
 To run the analysis code, ensure you have the following Python packages installed:
